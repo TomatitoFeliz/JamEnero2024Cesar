@@ -1,0 +1,1144 @@
+fileFormatVersion: 2
+guid: 51ce4e40f4cce314db4444fb2144eb65
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: BIRD+CAT+FOX+RACCOON_Frame_0
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 63
+      height: 50
+    spriteID: be54b9873dd361c4db117d49fbd548da
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: BIRD+CAT+FOX+RACCOON_Frame_1
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 75
+      y: 4
+      width: 63
+      height: 50
+    spriteID: bfacd0f7eae53af4ead4c70525a77147
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 75, y: 4}
+  - name: BIRD+CAT+FOX+RACCOON_Frame_2
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 146
+      y: 4
+      width: 63
+      height: 50
+    spriteID: 9a463483cf36f3140aa4384ad37ef518
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 146, y: 4}
+  - name: BIRD+CAT+FOX+RACCOON_Frame_3
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 217
+      y: 4
+      width: 63
+      height: 50
+    spriteID: 3db48ee224acf704dbcd04287e8bed8f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 217, y: 4}
+  - name: BIRD+CAT+FOX+RACCOON_Frame_4
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 4
+      width: 63
+      height: 50
+    spriteID: 2d7b866ab70dc95469ed9786b199ad02
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 288, y: 4}
+  - name: BIRD+CAT+FOX+RACCOON_Frame_5
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 359
+      y: 4
+      width: 63
+      height: 50
+    spriteID: c4bff8ba012d5af42aca27a7199a962e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 359, y: 4}
+  - name: BIRD+CAT+FOX+RACCOON_Frame_6
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 430
+      y: 4
+      width: 63
+      height: 50
+    spriteID: eefe21c6a4dab4e49b532900eb947e77
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 430, y: 4}
+  - name: BIRD+CAT+FOX+RACCOON_Frame_7
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 62
+      width: 63
+      height: 50
+    spriteID: 822bccf24da68334ebfd8ce32ffba38e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 62}
+  - name: BIRD+CAT+FOX+RACCOON_Frame_8
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 75
+      y: 62
+      width: 63
+      height: 50
+    spriteID: ecec1076723a8634ea6f6d386b525f6e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 75, y: 62}
+  - name: BIRD+CAT+FOX+RACCOON_Frame_9
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 146
+      y: 62
+      width: 63
+      height: 50
+    spriteID: 5f882b2b4148c0e4897bbf3c0d93b44f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 146, y: 62}
+  - name: BIRD+CAT+FOX+RACCOON_Frame_10
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 217
+      y: 62
+      width: 63
+      height: 50
+    spriteID: ef804757ed9fec9468f021929cb82cdd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 217, y: 62}
+  - name: BIRD+CAT+FOX+RACCOON_Frame_11
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 62
+      width: 63
+      height: 50
+    spriteID: 5b400c3f3bb243c4aa7b871b53d38351
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 288, y: 62}
+  - name: BIRD+CAT+FOX+RACCOON_Frame_12
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 359
+      y: 62
+      width: 63
+      height: 50
+    spriteID: b13e7ef26845be6418f8d2713b057821
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 359, y: 62}
+  - name: BIRD+CAT+FOX+RACCOON_Frame_13
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 430
+      y: 62
+      width: 63
+      height: 50
+    spriteID: f9cb6c9e3e151cc428219b69082560d7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 430, y: 62}
+  - name: BIRD+CAT+FOX+RACCOON_Frame_14
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 120
+      width: 63
+      height: 50
+    spriteID: d5f231683fb464a4a9374cca5c4331eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 120}
+  - name: BIRD+CAT+FOX+RACCOON_Frame_15
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 75
+      y: 120
+      width: 63
+      height: 50
+    spriteID: 84edfae0ae3df73459f795c2ddb7ea47
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 75, y: 120}
+  - name: BIRD+CAT+FOX+RACCOON_Frame_16
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 146
+      y: 120
+      width: 63
+      height: 50
+    spriteID: 4b0d8d0cfa234a84f8667f85279385de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 146, y: 120}
+  - name: BIRD+CAT+FOX+RACCOON_Frame_17
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 217
+      y: 120
+      width: 63
+      height: 50
+    spriteID: 97588b716763f514cb6d5987d08d6fff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 217, y: 120}
+  - name: BIRD+CAT+FOX+RACCOON_Frame_18
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 120
+      width: 63
+      height: 50
+    spriteID: ce2325f0a09a6ca44aa08aa1b41f5878
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 288, y: 120}
+  - name: BIRD+CAT+FOX+RACCOON_Frame_19
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 359
+      y: 120
+      width: 63
+      height: 50
+    spriteID: 2570ba36eafaa2f4cbfdbf57c175aa20
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 359, y: 120}
+  - name: BIRD+CAT+FOX+RACCOON_Frame_20
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 430
+      y: 120
+      width: 63
+      height: 50
+    spriteID: 7d2535ca675701a45b9da7f15295c107
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 430, y: 120}
+  - name: BIRD+CAT+FOX+RACCOON_Frame_21
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 178
+      width: 63
+      height: 50
+    spriteID: 2cc286cb5aef26f498ca0035413f2669
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 178}
+  - name: BIRD+CAT+FOX+RACCOON_Frame_22
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 75
+      y: 178
+      width: 63
+      height: 50
+    spriteID: 0de77eea494ee1744a833baf1952a42a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 75, y: 178}
+  - name: BIRD+CAT+FOX+RACCOON_Frame_23
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 146
+      y: 178
+      width: 63
+      height: 50
+    spriteID: 0f0161bfd589a9944b5e7e848c7fd114
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 146, y: 178}
+  - name: BIRD+CAT+FOX+RACCOON_Frame_24
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 217
+      y: 178
+      width: 63
+      height: 50
+    spriteID: f77fa1d24c576754d9bade24ba157f96
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 217, y: 178}
+  - name: BIRD+CAT+FOX+RACCOON_Frame_25
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 178
+      width: 63
+      height: 50
+    spriteID: 1789ef5ba55e4e049b3f0d8483a88828
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 288, y: 178}
+  - name: BIRD+CAT+FOX+RACCOON_Frame_26
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 359
+      y: 178
+      width: 63
+      height: 50
+    spriteID: 0b5cde91e9569f748b8cf0603359da4c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 359, y: 178}
+  - name: BIRD+CAT+FOX+RACCOON_Frame_27
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 430
+      y: 178
+      width: 63
+      height: 50
+    spriteID: 646af4ec6ee22a64ba00a5ce536c8be6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 430, y: 178}
+  - name: BIRD+CAT+FOX+RACCOON_Frame_28
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 236
+      width: 63
+      height: 50
+    spriteID: 0a07401f5a125384b98d0872903fe6e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 236}
+  - name: BIRD+CAT+FOX+RACCOON_Frame_29
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 75
+      y: 236
+      width: 63
+      height: 50
+    spriteID: 2bff32a9f235d664590e5cf03d9b1674
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 75, y: 236}
+  - name: BIRD+CAT+FOX+RACCOON_Frame_30
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 146
+      y: 236
+      width: 63
+      height: 50
+    spriteID: 178889bdf9a280b498b4cd4c48ac3f10
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 146, y: 236}
+  - name: BIRD+CAT+FOX+RACCOON_Frame_31
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 217
+      y: 236
+      width: 63
+      height: 50
+    spriteID: a7c16e3bcc6462f4682c2ab58c786bde
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 217, y: 236}
+  - name: BIRD+CAT+FOX+RACCOON_Frame_32
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 236
+      width: 63
+      height: 50
+    spriteID: 1a385ec5ae7a0ec41800ae22e63f51c4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 288, y: 236}
+  - name: BIRD+CAT+FOX+RACCOON_Frame_33
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 359
+      y: 236
+      width: 63
+      height: 50
+    spriteID: 2f01490387baf7a4bb8013dca06aa276
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 359, y: 236}
+  - name: BIRD+CAT+FOX+RACCOON_Frame_34
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 430
+      y: 236
+      width: 63
+      height: 50
+    spriteID: 060b922e3377f864e99e50d135b45e67
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 430, y: 236}
+  - name: BIRD+CAT+FOX+RACCOON_Frame_35
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 294
+      width: 63
+      height: 50
+    spriteID: e28389a0ad03d1a4197572c0276e8932
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 294}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -124156822
+    name: BIRD+CAT+FOX+RACCOON
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: BIRD+CAT+FOX+RACCOON_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 63
+        height: 50
+      spriteId: be54b9873dd361c4db117d49fbd548da
+    - name: BIRD+CAT+FOX+RACCOON_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 0
+        y: 0
+        width: 63
+        height: 50
+      spriteId: bfacd0f7eae53af4ead4c70525a77147
+    - name: BIRD+CAT+FOX+RACCOON_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 0
+        y: 0
+        width: 63
+        height: 50
+      spriteId: 9a463483cf36f3140aa4384ad37ef518
+    - name: BIRD+CAT+FOX+RACCOON_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 0
+        y: 0
+        width: 63
+        height: 50
+      spriteId: 3db48ee224acf704dbcd04287e8bed8f
+    - name: BIRD+CAT+FOX+RACCOON_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 0
+        y: 0
+        width: 63
+        height: 50
+      spriteId: 2d7b866ab70dc95469ed9786b199ad02
+    - name: BIRD+CAT+FOX+RACCOON_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 0
+        y: 0
+        width: 63
+        height: 50
+      spriteId: c4bff8ba012d5af42aca27a7199a962e
+    - name: BIRD+CAT+FOX+RACCOON_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 0
+        y: 0
+        width: 63
+        height: 50
+      spriteId: eefe21c6a4dab4e49b532900eb947e77
+    - name: BIRD+CAT+FOX+RACCOON_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 0
+        y: 0
+        width: 63
+        height: 50
+      spriteId: 822bccf24da68334ebfd8ce32ffba38e
+    - name: BIRD+CAT+FOX+RACCOON_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 0
+        y: 0
+        width: 63
+        height: 50
+      spriteId: ecec1076723a8634ea6f6d386b525f6e
+    - name: BIRD+CAT+FOX+RACCOON_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 0
+        y: 0
+        width: 63
+        height: 50
+      spriteId: 5f882b2b4148c0e4897bbf3c0d93b44f
+    - name: BIRD+CAT+FOX+RACCOON_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 0
+        y: 0
+        width: 63
+        height: 50
+      spriteId: ef804757ed9fec9468f021929cb82cdd
+    - name: BIRD+CAT+FOX+RACCOON_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 0
+        y: 0
+        width: 63
+        height: 50
+      spriteId: 5b400c3f3bb243c4aa7b871b53d38351
+    - name: BIRD+CAT+FOX+RACCOON_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 0
+        y: 0
+        width: 63
+        height: 50
+      spriteId: b13e7ef26845be6418f8d2713b057821
+    - name: BIRD+CAT+FOX+RACCOON_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 0
+        y: 0
+        width: 63
+        height: 50
+      spriteId: f9cb6c9e3e151cc428219b69082560d7
+    - name: BIRD+CAT+FOX+RACCOON_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 0
+        y: 0
+        width: 63
+        height: 50
+      spriteId: d5f231683fb464a4a9374cca5c4331eb
+    - name: BIRD+CAT+FOX+RACCOON_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 0
+        y: 0
+        width: 63
+        height: 50
+      spriteId: 84edfae0ae3df73459f795c2ddb7ea47
+    - name: BIRD+CAT+FOX+RACCOON_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 0
+        y: 0
+        width: 63
+        height: 50
+      spriteId: 4b0d8d0cfa234a84f8667f85279385de
+    - name: BIRD+CAT+FOX+RACCOON_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 0
+        y: 0
+        width: 63
+        height: 50
+      spriteId: 97588b716763f514cb6d5987d08d6fff
+    - name: BIRD+CAT+FOX+RACCOON_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 0
+        y: 0
+        width: 63
+        height: 50
+      spriteId: ce2325f0a09a6ca44aa08aa1b41f5878
+    - name: BIRD+CAT+FOX+RACCOON_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 0
+        y: 0
+        width: 63
+        height: 50
+      spriteId: 2570ba36eafaa2f4cbfdbf57c175aa20
+    - name: BIRD+CAT+FOX+RACCOON_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 0
+        y: 0
+        width: 63
+        height: 50
+      spriteId: 7d2535ca675701a45b9da7f15295c107
+    - name: BIRD+CAT+FOX+RACCOON_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 0
+        y: 0
+        width: 63
+        height: 50
+      spriteId: 2cc286cb5aef26f498ca0035413f2669
+    - name: BIRD+CAT+FOX+RACCOON_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 0
+        y: 0
+        width: 63
+        height: 50
+      spriteId: 0de77eea494ee1744a833baf1952a42a
+    - name: BIRD+CAT+FOX+RACCOON_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 0
+        y: 0
+        width: 63
+        height: 50
+      spriteId: 0f0161bfd589a9944b5e7e848c7fd114
+    - name: BIRD+CAT+FOX+RACCOON_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 0
+        y: 0
+        width: 63
+        height: 50
+      spriteId: f77fa1d24c576754d9bade24ba157f96
+    - name: BIRD+CAT+FOX+RACCOON_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 0
+        y: 0
+        width: 63
+        height: 50
+      spriteId: 1789ef5ba55e4e049b3f0d8483a88828
+    - name: BIRD+CAT+FOX+RACCOON_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 0
+        y: 0
+        width: 63
+        height: 50
+      spriteId: 0b5cde91e9569f748b8cf0603359da4c
+    - name: BIRD+CAT+FOX+RACCOON_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 0
+        y: 0
+        width: 63
+        height: 50
+      spriteId: 646af4ec6ee22a64ba00a5ce536c8be6
+    - name: BIRD+CAT+FOX+RACCOON_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 0
+        y: 0
+        width: 63
+        height: 50
+      spriteId: 0a07401f5a125384b98d0872903fe6e5
+    - name: BIRD+CAT+FOX+RACCOON_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 0
+        y: 0
+        width: 63
+        height: 50
+      spriteId: 2bff32a9f235d664590e5cf03d9b1674
+    - name: BIRD+CAT+FOX+RACCOON_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 0
+        y: 0
+        width: 63
+        height: 50
+      spriteId: 178889bdf9a280b498b4cd4c48ac3f10
+    - name: BIRD+CAT+FOX+RACCOON_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 0
+        y: 0
+        width: 63
+        height: 50
+      spriteId: a7c16e3bcc6462f4682c2ab58c786bde
+    - name: BIRD+CAT+FOX+RACCOON_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 0
+        y: 0
+        width: 63
+        height: 50
+      spriteId: 1a385ec5ae7a0ec41800ae22e63f51c4
+    - name: BIRD+CAT+FOX+RACCOON_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 0
+        y: 0
+        width: 63
+        height: 50
+      spriteId: 2f01490387baf7a4bb8013dca06aa276
+    - name: BIRD+CAT+FOX+RACCOON_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 0
+        y: 0
+        width: 63
+        height: 50
+      spriteId: 060b922e3377f864e99e50d135b45e67
+    - name: BIRD+CAT+FOX+RACCOON_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 0
+        y: 0
+        width: 63
+        height: 50
+      spriteId: e28389a0ad03d1a4197572c0276e8932
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 63, y: 50}
